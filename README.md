@@ -157,5 +157,3 @@ Todos estos problemas se resolvieron ajustando correctamente la configuración d
 Se ha completado con éxito el ciclo completo de desarrollo y distribución de una aplicación JavaFX, obteniendo un producto final listo para el usuario, con instalador, accesos directos y desinstalación.
 
 La práctica ha permitido comprender el proceso real de empaquetado de aplicaciones Java en entornos Windows, así como la resolución de problemas habituales en proyectos profesionales.
-
-🔥 **Túnel del Terror está listo para asustar… pero solo a los usuarios, no al profesor.** 😎
