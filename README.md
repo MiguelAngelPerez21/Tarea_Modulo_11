@@ -48,6 +48,7 @@ Para ello:
 ✅ La aplicación se abre correctamente, mostrando la interfaz gráfica JavaFX.
 
 📸 **Captura 1: Ejecución correcta del JAR desde consola**  
+
 ![Captura 1](cap1.png)
 
 ---
@@ -77,10 +78,12 @@ Durante este proceso se resolvieron varios problemas comunes:
 Finalmente se consiguió un ejecutable funcional, que abre directamente la aplicación gráfica.
 
 📸 **Captura 2: Configuración de Launch4j**  
+
 ![Captura 2_1](cap2-1.png)
 ![Captura 2_2](cap2-2.png)
 
 📸 **Captura 3: Ejecución correcta del archivo .exe**  
+
 ![Captura 3_1](cap3-1.png)
 ![Captura 3_2](cap3-2.png)
 
@@ -112,15 +115,18 @@ Nombre del instalador:
 El script de Inno Setup fue adaptado específicamente al nombre y estructura de la aplicación.
 
 📸 **Captura 4: Script de Inno Setup**  
+
 ![Captura 4](cap4.png)
 
 📸 **Captura 5: Asistente de instalación**  
+
 ![Captura 5_1](cap5-1.png)
 ![Captura 5_2](cap5-2.png)
 ![Captura 5_3](cap5-3.png)
 ![Captura 5_4](cap5-4.png)
 
 📸 **Captura 6: Acceso directo en el escritorio**  
+
 ![Captura 6](cap6.png)
 
 ---
@@ -133,6 +139,7 @@ El script de Inno Setup fue adaptado específicamente al nombre y estructura de 
 ✔ Desinstalación completa  
 
 📸 **Captura 7: Panel de desinstalación**  
+
 ![Captura 7_1](cap7-1.png)
 ![Captura 7_2](cap7-2.png)
 ![Captura 7_3](cap7-3.png)
