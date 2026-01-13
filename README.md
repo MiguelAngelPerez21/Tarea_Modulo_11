@@ -32,19 +32,17 @@ Para ello:
 
 - Se definió como clase principal:
 
-org.example.tarea_modulo_5.Launcher
+**org.example.tarea_modulo_5.Launcher**
 
 
-- Se utilizó Maven Shade Plugin para generar un fat JAR, incluyendo todas las dependencias necesarias (JavaFX).
+- Se utilizó Maven Shade Plugin para generar un fat JAR, incluyendo todas las dependencias necesarias (JavaFX) en:
 
-Comando utilizado:
-
-mvn clean package
+**mvn > clean > package**
 
 
 - Una vez generado el JAR, se comprobó su correcto funcionamiento ejecutándolo desde consola:
 
-java -jar Tarea_Modulo_5-1.0-SNAPSHOT.jar
+`java -jar Tarea_Modulo_5-1.0-SNAPSHOT.jar`
 
 
 ✅ La aplicación se abre correctamente, mostrando la interfaz gráfica JavaFX.
